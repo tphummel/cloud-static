@@ -1,0 +1,14 @@
+baseURL = "https://my.site/"
+languageCode = "en-us"
+title = "My Site"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+    Title = ""
+    site_description = ""
+    # twitter_handle = ""
+    # github_repo = "https://github.com//"
+    # facebook_handle =
+    # instagram_handle =
