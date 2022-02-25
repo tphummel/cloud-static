@@ -12,3 +12,9 @@ title = "My Site"
     # github_repo = "https://github.com//"
     # facebook_handle =
     # instagram_handle =
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
